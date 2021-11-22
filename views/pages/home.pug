@@ -1,0 +1,10 @@
+extends ../index.pug
+
+block variables
+    - var template = 'home'
+
+block content
+    .home
+        h1.home__welcome Welcome Home
+        a.home__youtube__channel__link(href='https://www.youtube.com/channel/UCRy8-Ju28H8VMRf2yWioGUg' target='_blank')
+            img.home__subscribe__image(alt='Subscribe to my channel' src='images/Subscribe.png')
