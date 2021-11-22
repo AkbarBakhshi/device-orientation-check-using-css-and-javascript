@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-This is the repo that contains the code to check for device orientation using either CSS(SCSS) or Javascript. The orientation check code inside ```home.sccc``` is commented out. The code as it is checks the device orientation in javascript (see ```index.js``` under **app/pages/Home** folder). Check out this Youtube video for details:
+This is the repo that contains the code to check for device orientation using either CSS(SCSS) or Javascript. The orientation check code inside ```home.sccc``` is commented out. The code as it is checks the device orientation in javascript (see ```index.js``` under **app/pages/Home** folder - you can also incorporate the same code in the ```index.js``` directly under ***app*** folder so that you can check orientation in all views). Check out this Youtube video for details:
 
 https://youtu.be/n9P3dmWuHVQ
 
